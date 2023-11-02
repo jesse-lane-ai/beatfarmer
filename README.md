@@ -29,7 +29,7 @@ Set Up:
 Ensure you have Python 3.x installed and all required libraries. You can install the libraries using pip:
 
 
-    pip install librosa os re tags
+    pip install -m requirements.txt
 
 Analyze Your Samples:
 
