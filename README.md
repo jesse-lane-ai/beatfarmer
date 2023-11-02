@@ -24,35 +24,28 @@ Prerequisites 🛠
 
 Quick Start 🚀
 
-    Set Up:
+Set Up:
 
-    Ensure you have Python 3.x installed and all required libraries. You can install the libraries using pip:
+Ensure you have Python 3.x installed and all required libraries. You can install the libraries using pip:
 
-    bash
 
-pip install librosa os re tags
+    pip install librosa os re tags
 
 Analyze Your Samples:
 
 Update the directory_path in the script to point to your audio sample directory. For example:
 
-python
-
-directory_path = r"E:\path_to_your_samples"
+    directory_path = r"E:\path_to_your_samples"
 
 Run The Script:
 
 Navigate to the script's directory and run:
 
-bash
+    python main_analysis.py
 
-    python main_script_name.py
+And then:
 
-    Replace main_script_name.py with the actual script filename.
-
-    Review & Create:
-
-    Once the script finishes processing, check the database for organized and categorized audio samples. Use the song idea generator for fresh ideas and start your next masterpiece!
+    python generate_beats.py
 
 Contribution & Support 🤝
 
