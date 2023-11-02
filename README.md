@@ -18,9 +18,10 @@ Prerequisites 🛠
     Python 3.x
     Libraries:
         librosa
-        os
-        re
-        tags
+        soundfile
+        pyrubberband
+        torch
+        tensorflow
 
 Quick Start 🚀
 
