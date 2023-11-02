@@ -3,15 +3,15 @@ BeatFarmer 🎵
 BeatFarmer is not just another audio analysis tool; it's your creative partner! Dive deep into the world of audio samples, organize them, analyze their attributes, and get innovative song ideas with just a few clicks. Music producers, hobbyists, and enthusiasts alike, it's time to elevate your craft.
 Features 🌟
 
-    Deep Audio Analysis: Dive into the DNA of your samples, extracting various attributes such as musical key, tempo, instrument type, and much more.
+Deep Audio Analysis: Dive into the DNA of your samples, extracting various attributes such as musical key, tempo, instrument type, and much more.
 
-    Bulk Processing: Got a massive library? No worries! Efficiently processes vast directories of audio files, no matter how large.
+Bulk Processing: Got a massive library? No worries! Efficiently processes vast directories of audio files, no matter how large.
 
-    Database Integration: Beyond mere organization – store audio file attributes in a relational database for advanced querying, management, and retrieval.
+Database Integration: Beyond mere organization – store audio file attributes in a relational database for advanced querying, management, and retrieval.
 
-    Song Idea Generator: Get those creative juices flowing. BeatFarmer can also suggest song ideas based on the analyzed samples.
+Song Idea Generator: Get those creative juices flowing. BeatFarmer can also suggest song ideas based on the analyzed samples.
 
-    Extensibility: Future-proof your toolset. Easily extend BeatFarmer to support more audio formats or incorporate additional audio analysis techniques.
+Extensibility: Future-proof your toolset. Easily extend BeatFarmer to support more audio formats or incorporate additional audio analysis techniques.
 
 Prerequisites 🛠
 
