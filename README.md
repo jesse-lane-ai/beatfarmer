@@ -1,9 +1,14 @@
 # BeatFarmer 🎵
 
 BeatFarmer is not just another audio analysis tool; it's your creative partner! Dive deep into the world of audio samples, organize them, analyze their attributes, and get innovative song ideas with just a few clicks. Music producers, hobbyists, and enthusiasts alike, it's time to elevate your craft.
+
+> 📘 Info
+> 
+> Beatfarmer works by analysing and processing longer pieces of audio such as loops.
+
 Features 🌟
 
-Deep Audio Analysis: Dive into the DNA of your samples, extracting various attributes such as musical key, tempo, instrument type, and much more.
+Deep Audio Analysis: Dive into the DNA of your samples, extracting various attributes such as musical key, tempo, instrument type, and much more. Beatfarmer uses SOTA machine learning to automatically categorize your samples.
 
 Bulk Processing: Got a massive library? No worries! Efficiently processes vast directories of audio files, no matter how large.
 
