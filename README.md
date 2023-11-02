@@ -1,4 +1,4 @@
-BeatFarmer 🎵
+# BeatFarmer 🎵
 
 BeatFarmer is not just another audio analysis tool; it's your creative partner! Dive deep into the world of audio samples, organize them, analyze their attributes, and get innovative song ideas with just a few clicks. Music producers, hobbyists, and enthusiasts alike, it's time to elevate your craft.
 Features 🌟
