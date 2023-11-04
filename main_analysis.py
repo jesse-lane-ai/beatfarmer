@@ -4,7 +4,7 @@ from audiofile import AudioFile
 from dbaudiofile import DBAudioFile
 from database_setup import Session
 
-directory_path = r"E:\samples\big fish audio"
+directory_path = r"/path/to/your/audio/samples"
 
 def get_audio_filepaths(directory_path, file_extensions=[". wav"]):
     """
